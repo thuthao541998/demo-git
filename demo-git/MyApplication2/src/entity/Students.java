@@ -11,7 +11,7 @@ package entity;
  */
 public class Students {
 
-    private int id;
+    private boolean id;
     private String name;
     private String phone;
     private String address;
