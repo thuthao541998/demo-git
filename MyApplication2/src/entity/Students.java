@@ -10,7 +10,7 @@ package entity;
  * @author Admin
  */
 public class Students {
-
+    private int thao;
     private int id;
     private String name;
     private String phone;
